@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define MAX 5
-
+//f
 typedef char elemento;
 
 // Define a estrutura Pilha
